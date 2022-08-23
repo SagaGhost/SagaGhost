@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CalebHolloway
 - 👀 I’m interested in python, javascript, godot, and really anything.
-- 🌱 I’m currently learning javascript and godot.
+- 🌱 I’m currently learning react and unreal.
 
 Check out my game on steam : https://store.steampowered.com/app/1902350/Polar_Bear_Riding_A_Ninja/
 
